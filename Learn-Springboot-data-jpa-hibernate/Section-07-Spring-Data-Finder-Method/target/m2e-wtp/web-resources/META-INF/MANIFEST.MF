@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Section-07-Spring-Data-Finder-Method
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.sid.tutorials.springboot.hibernate.Section07SpringDataFi
+ nderMethod
+Created-By: Maven Integration for Eclipse
+

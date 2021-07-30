@@ -1,0 +1,29 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sid.tutorials.springboot.hibernate</groupId>
+		<artifactId>Learn-Springboot-data-jpa-hibernate</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>Section-24-Clinical-Data-Collection</artifactId>
+	<packaging>war</packaging>
+	<name>Section-24-Clinical-Data-Collection</name>
+	<description>Section-24-Clinical-Data-Collection</description>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.name>Section-24-Clinical-Data-Collection</project.name>
+		<start-class>com.sid.tutorials.springboot.hibernate.Section24ClinicalDataCollection</start-class>
+	</properties>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+</project>

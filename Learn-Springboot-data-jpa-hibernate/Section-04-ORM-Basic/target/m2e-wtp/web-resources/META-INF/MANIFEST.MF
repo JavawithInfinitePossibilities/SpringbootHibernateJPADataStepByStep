@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Section 04 ORM Basic
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.sid.tutorials.springboot.hibernate.Section04ORMBasic
+Created-By: Maven Integration for Eclipse
+

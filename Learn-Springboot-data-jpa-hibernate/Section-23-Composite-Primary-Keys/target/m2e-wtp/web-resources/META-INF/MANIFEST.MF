@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Section-23-Composite-Primary-Keys
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.sid.tutorials.springboot.hibernate.Section23CompositePri
+ maryKeys
+Created-By: Maven Integration for Eclipse
+

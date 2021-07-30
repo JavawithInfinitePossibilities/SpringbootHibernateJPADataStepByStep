@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Section-14-Relationship-In-Hibernate
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.sid.tutorials.springboot.hibernate.Section14Relationship
+ InHibernate
+Created-By: Maven Integration for Eclipse
+
